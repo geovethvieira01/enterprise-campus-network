@@ -1,11 +1,14 @@
 # Rede Campus Empresarial
 
 ## Visão Geral
-
 Simulação de uma rede empresarial desenvolvida no Cisco Packet Tracer com foco em segmentação de rede, redundância e tecnologias de switching.
 
 ---
+## Topologia da Rede
 
+![Topologia](topologia.jpg)
+
+---
 ## Tecnologias Utilizadas
 
 - VLANs
